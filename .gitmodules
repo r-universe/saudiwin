@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ordbetareg"]
+	path = ordbetareg
+	url = https://github.com/saudiwin/ordbetareg_pack
+	shallow = true
+	registered = true
